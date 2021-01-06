@@ -1,2 +1,2 @@
-# weichienyap-web-ui
+# weichienyap-web
 UI for weichienyap
